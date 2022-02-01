@@ -10,12 +10,7 @@ In this lab you will use the details tag in HTML.
 ---
 ### Sample Output
 
-<details>
-    <summary>About</summary>
-    <img src = "https://cdn.mos.cms.futurecdn.net/qfFFFhnM8LwZnjpTECN3oB-1024-80.jpg.webp">
-    <p>Disney World is located in Florida</p>
-</details>
-
+A "Contact Me" clickable element should appear. When triggered it should open up and display some contact information and an image. This should be retractable.
 
 ---
 
