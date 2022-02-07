@@ -1,4 +1,4 @@
-## Javalin HTML Details Tag
+## HTML Details Tag
 ---
 ### Description
 In this lab, you will use the details tag in HTML.
