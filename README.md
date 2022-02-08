@@ -1,4 +1,4 @@
-## HTML Details Tag
+## HTML Details Tag Answer
 ---
 ### Description
 In this lab, you will use the details tag in HTML.
